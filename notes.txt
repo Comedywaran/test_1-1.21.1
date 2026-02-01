@@ -1,0 +1,7 @@
+this is a file for me to note how the forge stuff works
+
+build the mod:
+gradle task: Task/build/build -> .jar file in build\libs
+
+run mc with mod:
+gradle task. Task/forgegradle runs/runClient
