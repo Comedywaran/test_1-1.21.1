@@ -12,7 +12,7 @@
       "args": "--launchTarget forge_userdev_client --version MOD_DEV --assetIndex 17 --assetsDir C:\\Users\\Timo\\.gradle\\caches\\forge_gradle\\assets --gameDir .",
       "env": {
         "MOD_CLASSES": "${workspaceFolder}\\build\\sourcesSets\\main",
-        "MCP_MAPPINGS": "official_1.21.1"
+        "MCP_MAPPINGS": "parchment_2024.11.17-1.21.1"
       },
       "preLaunchTask": "prepareRunClientCompile"
     },
@@ -27,7 +27,7 @@
       "args": "--launchTarget forge_userdev_data --assetIndex 17 --assetsDir C:\\Users\\Timo\\.gradle\\caches\\forge_gradle\\assets --gameDir . --mod timos_test_mod --all --output C:\\Users\\Timo\\Documents\\Modding\\test_1-1.21.1\\src\\generated\\resources --existing C:\\Users\\Timo\\Documents\\Modding\\test_1-1.21.1\\src\\main\\resources",
       "env": {
         "MOD_CLASSES": "${workspaceFolder}\\build\\sourcesSets\\main",
-        "MCP_MAPPINGS": "official_1.21.1"
+        "MCP_MAPPINGS": "parchment_2024.11.17-1.21.1"
       },
       "preLaunchTask": "prepareRunDataCompile"
     },
@@ -42,7 +42,7 @@
       "args": "--launchTarget forge_userdev_server_gametest --gameDir .",
       "env": {
         "MOD_CLASSES": "${workspaceFolder}\\build\\sourcesSets\\main",
-        "MCP_MAPPINGS": "official_1.21.1"
+        "MCP_MAPPINGS": "parchment_2024.11.17-1.21.1"
       },
       "preLaunchTask": "prepareRunGameTestServerCompile"
     },
@@ -57,7 +57,7 @@
       "args": "--launchTarget forge_userdev_server --gameDir . --nogui",
       "env": {
         "MOD_CLASSES": "${workspaceFolder}\\build\\sourcesSets\\main",
-        "MCP_MAPPINGS": "official_1.21.1"
+        "MCP_MAPPINGS": "parchment_2024.11.17-1.21.1"
       },
       "preLaunchTask": "prepareRunServerCompile"
     }
